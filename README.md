@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc)](https://github.com/hanifjamadar77)
 <h1 align="center">Hi 👋, I'm Hanif Jamadar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
