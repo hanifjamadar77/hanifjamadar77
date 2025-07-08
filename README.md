@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanifjamadar77&label=Profile%20views&color=0e75b6&style=flat" alt="hanifjamadar77" /> </p>
 
-- 🔭 I’m currently working on **Estate Portel Web Application**
+- 🔭 I’m currently working on **Final year project**
 
 - 💬 Ask me about **Web Development, Android Development, AI, ML.**
 
