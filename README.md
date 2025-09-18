@@ -1,7 +1,8 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc)](https://github.com/hanifjamadar77)
 <h1 align="center">Hi 👋, I'm Hanif Jamadar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanifjamadar77&label=Profile%20views&color=0e75b6&style=flat" alt="hanifjamadar77" /> </p>
