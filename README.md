@@ -18,6 +18,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hanif-jamadar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanif jamadar" height="30" width="40" /></a>
+<a href="https://hanifjamadar.netlify.app/" target="_blank">
+  <img
+    align="center"
+    src="https://img.icons8.com/fluency/48/portfolio.png"
+    alt="Portfolio"
+    height="30"
+    width="40"
+  />
+</a>
+
 <a href="https://www.instagram.com/iamhanif._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hanny._x1" height="30" width="40" /></a>
 </p>
 
@@ -66,6 +76,13 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats-psi-lac-48.vercel.app/api/top-langs?username=hanifjamadar77&show_icons=true&locale=en&layout=compact" alt="hanifjamadar77" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-psi-lac-48.vercel.app/api?username=hanifjamadar77&show_icons=true&locale=en" alt="hanifjamadar77" /></p>
+<p align="center">
+  <img
+    width="45%"
+    src="https://github-readme-stats-fawn-zeta-70.vercel.app/api/top-langs?username=hanifjamadar77&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+  />
+   <img
+    width="45%"
+    src="https://github-readme-stats-fawn-zeta-70.vercel.app/api?username=hanifjamadar77&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+  />
+</p>
