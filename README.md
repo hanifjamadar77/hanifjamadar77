@@ -1,4 +1,8 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc)](https://github.com/hanifjamadar77)
+<p align="center">
+  <a href="https://github.com/hanifjamadar77">
+    <img src="https://github.com/user-attachments/assets/35f6e88d-04c0-4ff0-b6fd-aedfc683f13a" alt="MasterHead" width="100%" />
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Hanif Jamadar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
